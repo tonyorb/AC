@@ -33,3 +33,7 @@ hs_err_pid*
 # Maven
 log/
 target/
+
+#Allure
+.allure
+/*/allure-results/
